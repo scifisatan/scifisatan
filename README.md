@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abi Shrestha</h1>
 <h3 align="center">Just another tech enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scifisatan&label=Profile%20views&color=0e75b6&style=flat" alt="scifisatan" /> </p>
-
-<p align="left"> <a href="https://twitter.com/39abii_" target="blank"><img src="https://img.shields.io/twitter/follow/39abii_?logo=twitter&style=for-the-badge" alt="39abii_" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/39abii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="39abii_" height="30" width="40" /></a>
