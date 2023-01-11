@@ -13,7 +13,6 @@
 
 
 ### What I'm working on right now:
-- Developing a discord bot for Sahari Sabdakosh
 - Making a wiki page for my semester
 - Exploring ways to make my code and my workflow more efficient
 
