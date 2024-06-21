@@ -16,8 +16,11 @@
 
 <a href="http://www.github.com/scifisatan"><img src="https://github-readme-stats.vercel.app/api?username=scifisatan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="scifisatan's GitHub stats" /></a>
 <hr/>
-## TODOs:
-- Make a portfolio website
-- Integrate Markdown - based blog site 
-- Clean up Arduino Codes and merge three repos
-- Merge all react codes into one major repo
+
+<h2>TODOs:</h2>
+<ul>
+<li>  Make a portfolio website </li>
+<li>Integrate Markdown - based blog site</li> 
+<li>Clean up Arduino Codes and merge three repos</li>
+<li>Merge all react codes into one major repo</li>
+</ul>
